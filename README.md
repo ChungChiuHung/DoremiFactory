@@ -7,4 +7,6 @@
 | 2        |    流量計 Monitor        |         Modbus TCP |
 
 # 參考資料
-- [Google Drive 原始檔案(尚未整理)](https://drive.google.com/drive/u/0/folders/1_zVnTO9Wcp0Ic9Cuef0HrzT0R_LI-w2F)
+- [Google Drive Location](https://drive.google.com/drive/u/0/folders/1_zVnTO9Wcp0Ic9Cuef0HrzT0R_LI-w2F)
+
+- [流量計資訊](https://docs.google.com/spreadsheets/d/1QXe4W_MFVylDWkWK8hagnKr6mzd0se9T04lW2RQOy9E/edit#gid=598309371)
